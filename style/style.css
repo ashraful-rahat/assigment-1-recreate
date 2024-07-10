@@ -355,6 +355,9 @@
    text-decoration-line: underline;
 
 }
+
+ /* footer part style */
+ 
 .footer-backgruond{
     background-image: url(../assets/handshake.jpg);
     background-size: cover;
