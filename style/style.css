@@ -357,7 +357,7 @@
 }
 
  /* footer part style */
- 
+
 .footer-backgruond{
     background-image: url(../assets/handshake.jpg);
     background-size: cover;
@@ -413,6 +413,9 @@ background: rgb(255, 255, 255);
     font-size: 16px;
     border: none;
 }
+
+  /* bonus part style */
+  
 .bonus-container{
     border-radius: 16px;
     margin-top: 40px;
