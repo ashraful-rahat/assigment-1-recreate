@@ -39,8 +39,7 @@
 
 .banner-section{
     background-image: url(../assets/Hero-bg.png);
-    height: 882px;
-    border: 1px dashed rgb(13, 19, 33);
+    height: 862px;
 }
 .banner{
     max-width: 80%;
@@ -51,7 +50,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 90px;
+   padding-top: 130px;
 }
 .banner-title{
     color: rgb(13, 19, 33);
@@ -356,3 +355,88 @@
    text-decoration-line: underline;
 
 }
+.footer-backgruond{
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 280px;
+   max-width: 1140px;
+   margin: 0 auto;
+   border-radius: 16px;
+   background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
+   background-position: center;
+
+}
+
+.footer-content{
+    text-align: center;
+
+}
+.footer-ttile{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 50px;
+}
+.footer-des{
+    opacity: 0.7;
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 13px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+padding-top: 15px;
+}
+.placeholder{
+    box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+  padding: 16px;
+  width: 380px;
+  margin-top: 25px;
+}
+.btn-submit{
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    width: 130px;
+    height: 50px;
+    font-size: 16px;
+    border: none;
+}
+.bonus-container{
+    border-radius: 16px;
+    margin-top: 40px;
+    height: px;
+    max-width: 85%;
+    margin: 0 auto;
+    height: 120px;
+}
+.bonus-section{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+   margin-top: 25px;
+   background: white;
+   background: rgba(13, 19, 33, 0.03);
+
+}
+.bonus-title{
+   padding-top: 18px;
+   margin-left: 50px;
+   color: rgb(13, 19, 33);
+
+}
+.icons{
+    padding: 15px;
+    font-size: 25px;
+    margin-right: 25px;
+}
+    
+
