@@ -92,7 +92,7 @@
     margin: 0 auto;
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
-    height: 1050px;
+    height: 1150px;
 }
 .content-title{
     text-align: center;
@@ -141,9 +141,8 @@
 }
 
 .banner-img{
-    margin-top: 18px;
-    
-    
+   padding: 25px;
+         
 }
 .content-sub-title{
     color: rgba(13, 19, 33, 0.7);
@@ -228,16 +227,16 @@
 .banner-img-2{
     margin-left: 35px;
 }
-.inspiration-section{
+
+  /* inspiration section design */
+  .inspiration-section{
     width: 70%;
     margin: 0 auto;
 
 }
-  /* inspiration section design */
-
 .inspiration-info{
     text-align: center;
-    margin-top: 35px;
+    margin-top: 150px;
 }
 .inspiration-title{
     color: rgb(13, 19, 33);
@@ -415,7 +414,7 @@ background: rgb(255, 255, 255);
 }
 
   /* bonus part style */
-  
+
 .bonus-container{
     border-radius: 16px;
     margin-top: 40px;
